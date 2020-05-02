@@ -14,4 +14,6 @@ this repo, many of the files are in "closed" formats because I created them in
 proprietary software such as MS Word, but my plan is to open them up as I get the
 chance to do so.
 
-Prepare for the organization of this site to change without notice!
+* Organization: Messy
+* Bugs and errors: Many
+* Updates: Sluggish
